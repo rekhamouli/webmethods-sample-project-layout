@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Auto Generated from Template" name="TS_AddNumbersTestSuite.xml">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_services">
+        <service folder="testPckg3" name="services">
+            <input>
+                <file filename="testPckg3_services_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg3_services_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_services">
+        <service folder="testPckg3" name="services">
+            <input>
+                <file filename="testPckg3_services_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg3_services_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_services">
+        <service folder="testPckg3" name="services">
+            <input>
+                <file filename="testPckg3_services_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg3_services_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
