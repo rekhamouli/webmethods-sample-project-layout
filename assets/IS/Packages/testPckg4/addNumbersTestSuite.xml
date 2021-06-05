@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Auto Generated from Template" name="TS_addNumbersTestSuite.xml">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_addNumbers">
+        <service folder="testPckg4" name="addNumbers">
+            <input>
+                <file filename="testPckg4_addNumbers_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg4_addNumbers_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_addNumbers">
+        <service folder="testPckg4" name="addNumbers">
+            <input>
+                <file filename="testPckg4_addNumbers_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg4_addNumbers_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase description="adding only 2 numbers" name="FirstSenario">
+        <service folder="testPckg4" name="addNumbers">
+            <input>
+                <file filename="testPckg4_addNumbers_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg4_addNumbers_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase description="Add numbers twice" name="SecondSenario">
+        <service folder="testPckg4" name="addNumbers">
+            <input>
+                <file filename="testPckg4_addNumbers_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg4_addNumbers_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
