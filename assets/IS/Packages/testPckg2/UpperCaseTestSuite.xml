@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Auto Generated from Template" name="TS_UpperCaseTestSuite.xml">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_toUpperCase">
+        <service folder="testPckg2" name="toUpperCase">
+            <input>
+                <file filename="testPckg2_toUpperCase_input.xml"/>
+            </input>
+            <expected>
+                <file filename="testPckg2_toUpperCase_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
